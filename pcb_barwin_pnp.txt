@@ -4,7 +4,7 @@
 *eMail=
 *
 *Project=pcb_barwin
-*Date=20:48:19
+*Date=21:05:59
 *CreatedBy=Fritzing 0.9.2b.11.19.8d2d5970658f0bed09c661c9ea9a515b5f40f44c
 *
 *
