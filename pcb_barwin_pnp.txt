@@ -1,0 +1,41 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=pcb_barwin
+*Date=20:48:19
+*CreatedBy=Fritzing 0.9.2b.11.19.8d2d5970658f0bed09c661c9ea9a515b5f40f44c
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;THT;56.4333;-74.0892;180;Bottom;Input_5V
+2;;THT;15.5128;-57.5792;-90;Bottom;J4
+3;;;47.5433;-52.4992;0;Bottom;Jumper1
+4;;;49.5256;-74.9904;0;Bottom;TXT2
+5;;THT;60.2433;-82.9792;-90;Bottom;servo_off
+6;;;51.723;-67.4206;0;Bottom;TXT2
+7;;THT;39.9233;-57.5792;-90;Bottom;J3
+8;;THT;61.5133;-38.5292;0;Bottom;buttons
+9;;THT;18.3333;-72.8192;0;Bottom;servo4
+10;;;55.5155;-85.6143;0;Bottom;TXT3
+11;;THT;56.4333;-66.4692;0;Bottom;Input_12V
+12;;THT;61.5133;-74.0892;180;Bottom;Input_5V1
+13;;;51.6121;-71.8817;0;Bottom;TXT2
+14;;;3.34421;-75.0059;0;Bottom;TXT4
+15;;THT;8.17331;-72.8192;0;Bottom;servo6
+16;;THT;13.2533;-72.8192;0;Bottom;servo5
+17;;THT;22.1433;-9.31924;-90;Bottom;J2
+18;;THT;23.4133;-72.8192;0;Bottom;servo3
+19;;THT;61.5133;-66.4692;0;Bottom;Input_12V1
+20;;;49.0981;-64.3591;0;Bottom;TXT2
+21;;THT;33.5733;-72.8192;0;Bottom;servo1
+22;;THT;61.5133;-15.6692;0;Bottom;J20
+23;;THT;42.4633;-9.31924;-90;Bottom;J1
+24;;THT;28.4933;-72.8192;0;Bottom;servo2
+25;;THT;38.6533;-72.8192;0;Bottom;servo0
+26;;;12.5353;-78.6567;0;Bottom;TXT1
